@@ -1,5 +1,12 @@
 rainbit-seeder
 ==============
+For Check DNS-Seeder go to this link : https://toolbox.googleapps.com/apps/dig/#A/
+Enter this domain : dnsseed.rainbit.me
+
+Also you can check on his link : https://www.whatsmydns.net/#A/dnsseed.rainbit.me
+
+You can check the DNS status by typing the following into a Windows/Linux/Mac command prompt/terminal, even on your home PC:
+nslookup dnsseed.rainbit.me
 
 This software is forked from bitcoin-seeder and modified for PIVX network.
 
